@@ -21,7 +21,7 @@
 ![RGB_led](https://github.com/MaDProjekt/Formula1/assets/157323137/023f02e8-99c9-459b-980e-b07fe1f1da5d)
 
 ## SCHEME
-![schema](https://github.com/MaDProjekt/Formula1/assets/157323137/2d8417bf-7ca7-4171-87ee-9fc6d5c05787)
+![schema](https://github.com/MaDProjekt/Formula1/assets/157323137/fea09472-8095-4ab5-93e0-0f4067c0ee72)
 
 
 ## PROCESS
