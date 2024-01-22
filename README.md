@@ -20,7 +20,7 @@
 - RGB led\
 ![RGB_led](https://github.com/MaDProjekt/Formula1/assets/157323137/023f02e8-99c9-459b-980e-b07fe1f1da5d)
 
-## SCHEME
+## SCHEMES
 
 | H-bridge scheme             | Servo + receiver scheme            |
 | ---------------------- | ---------------------- |
