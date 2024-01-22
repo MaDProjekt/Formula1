@@ -1,7 +1,8 @@
 # Formula1
 ![Fojmujka](https://github.com/MaDProjekt/Formula1/assets/157323137/e4a4be73-c58e-41c0-a307-9cfcedf37552)
 ## MOTORS
-Pouzity je MIG 490 12V
+- MIG 490 12V\
+![motor](https://github.com/MaDProjekt/Formula1/assets/157323137/71b93e72-cd61-4600-88b2-59054b05d8e1)
 ## SERVO
 - Micro servo 9g (SG90)\
 ![servo](https://github.com/MaDProjekt/Formula1/assets/157323137/c33978e5-e2ed-4172-bd56-470792c19acd)
