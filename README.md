@@ -1,5 +1,5 @@
 # Formula1
-![Fojmujka](https://github.com/MaDProjekt/Formula1/assets/157323137/8dad3aba-e52c-4f63-93fc-d78f80099d52)
+![Fojmujka](https://github.com/MaDProjekt/Formula1/assets/157323137/e4a4be73-c58e-41c0-a307-9cfcedf37552)
 ## MOTORS
 Pouzity je MIG 490 12V
 ## SERVO
