@@ -25,8 +25,7 @@
 | H-bridge scheme             | Servo + receiver scheme            |
 | ---------------------- | ---------------------- |
 | ![schema](https://github.com/MaDProjekt/Formula1/assets/157323137/fea09472-8095-4ab5-93e0-0f4067c0ee72) | ![receiver](https://github.com/MaDProjekt/Formula1/assets/157323137/ff7269c1-9dd0-42a5-b654-4964fd836d77) |
-| ---------------------- | ---------------------- |
-| H-bridge scheme             | Servo + receiver scheme            |
+| RGB led scheme            | 
 
 ## PROCESS
 
