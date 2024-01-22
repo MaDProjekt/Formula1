@@ -4,7 +4,7 @@
 Pouzity je MIG 490 12V
 ## SERVO
 - Micro servo 9g (SG90)
-![servo](https://github.com/MaDProjekt/Formula1/assets/157323137/1339c319-68a8-4095-a11d-e7a89243e4f1)
+![servo](https://github.com/MaDProjekt/Formula1/assets/157323137/b64b90c2-ff4a-402c-919f-28f457116f1d)
 - Digi Hi-speed (MG995)
 ## OTHER
 - Arduino MEGA
