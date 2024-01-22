@@ -14,6 +14,7 @@
 ![ovladac](https://github.com/MaDProjekt/Formula1/assets/157323137/bf4e4669-4a5f-4bdb-8dd6-58328ca52f34)
 - Motor driver dual H-bridge (L298N)\
 ![Bridge](https://github.com/MaDProjekt/Formula1/assets/157323137/798c9a0d-d20f-41ee-977c-e9ffee51063c)
-- RGB led
+- RGB led\
+![RGB_led](https://github.com/MaDProjekt/Formula1/assets/157323137/efa896ec-3119-4e97-a75c-203a3702dc57)
 
   
