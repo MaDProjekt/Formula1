@@ -178,5 +178,4 @@ void loop() {
       // Tu môžete vykonávať ďalšie akcie, keď časovač vyprší
     }
   }
-  // ... (Ďalší kód, ktorý môže reagovať na stav časovača)
 }
