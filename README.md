@@ -11,9 +11,9 @@
 |![servo](https://github.com/MaDProjekt/Formula1/assets/157323137/c33978e5-e2ed-4172-bd56-470792c19acd) | ![Big_servo](https://github.com/MaDProjekt/Formula1/assets/157323137/36b15811-ca08-41f2-9f37-a3b954acbdfa) |
 
 ## CAMERA
-| FPV Camera          | Digi Hi-speed (MG995)         |
+| FPV Camera          | EACHINE ROTG02        |
 | ---------------------- | ---------------------- |
-| |![prijimacFpv](https://github.com/MaDProjekt/Formula1/assets/157323137/6fa91529-83d6-4a93-9fff-be9f10085bf3)|
+|![FPV_cam](https://github.com/MaDProjekt/Formula1/assets/157323137/6dac537d-df4b-46c9-b868-948a382ed54c)|![prijimacFpv](https://github.com/MaDProjekt/Formula1/assets/157323137/6fa91529-83d6-4a93-9fff-be9f10085bf3)|
 
 ## OTHER
 - Arduino MEGA
