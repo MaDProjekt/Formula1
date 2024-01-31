@@ -1,5 +1,5 @@
 # FORMULA 1
-![Fojmujka](https://github.com/MaDProjekt/Formula1/assets/157323137/e4a4be73-c58e-41c0-a307-9cfcedf37552)
+![F1_full](https://github.com/MaDProjekt/Formula1/assets/157323137/ed16f10c-4f77-43da-b678-fac3cb151f1f)
 
 ## MOTORS
 - MIG 490 12V\
