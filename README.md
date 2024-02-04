@@ -22,7 +22,8 @@
 
 
 ## OTHER
-- Arduino MEGA
+- Arduino MEGA\
+![ARduino](https://github.com/MaDProjekt/Formula1/assets/157323137/93ae4624-4e66-439f-a63b-12bcb938e6a5)
 - Playstation controller with receiver\
 ![ovladac](https://github.com/MaDProjekt/Formula1/assets/157323137/bf4e4669-4a5f-4bdb-8dd6-58328ca52f34)
 - Motor driver dual H-bridge (L298N)\
