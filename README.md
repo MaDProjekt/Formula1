@@ -15,6 +15,13 @@
 | ---------------------- | ---------------------- |
 |![FPV_cam](https://github.com/MaDProjekt/Formula1/assets/157323137/6dac537d-df4b-46c9-b868-948a382ed54c)|![prijimacFpv](https://github.com/MaDProjekt/Formula1/assets/157323137/6fa91529-83d6-4a93-9fff-be9f10085bf3)|
 
+## WI-FI
+-ESP01
+![ESP01](https://github.com/MaDProjekt/Formula1/assets/157323137/c54c6866-9418-467d-ac66-3a64ae320fc2)
+-programer
+![programer](https://github.com/MaDProjekt/Formula1/assets/157323137/971a8833-870e-49fa-a597-c5d9c13b5c71)
+
+
 ## OTHER
 - Arduino MEGA
 - Playstation controller with receiver\
