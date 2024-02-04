@@ -30,13 +30,13 @@
 - RGB led\
 ![RGB_led](https://github.com/MaDProjekt/Formula1/assets/157323137/023f02e8-99c9-459b-980e-b07fe1f1da5d)
 
-## SCHEMES
+## Connections
 
-| H-bridge scheme             | Servo + receiver scheme            |
+| H-bridge connections             | Servo + receiver connections            |
 | ---------------------- | ---------------------- |
 | ![schema](https://github.com/MaDProjekt/Formula1/assets/157323137/fea09472-8095-4ab5-93e0-0f4067c0ee72) | ![receiver](https://github.com/MaDProjekt/Formula1/assets/157323137/ff7269c1-9dd0-42a5-b654-4964fd836d77) |
-| RGB led scheme + Servo for DRS            | 
-| ![RGB](https://github.com/MaDProjekt/Formula1/assets/157323137/52eb4047-365b-4df0-b7c6-d6ef22f2be9d) |
+| RGB led connections + Servo for DRS            |ESP01 connections |
+| ![RGB](https://github.com/MaDProjekt/Formula1/assets/157323137/52eb4047-365b-4df0-b7c6-d6ef22f2be9d) | ![Wifi](https://github.com/MaDProjekt/Formula1/assets/157323137/b39243de-2cfb-46e1-b8bc-2790ff3979a7)|
 ## PROCESS
 
   
