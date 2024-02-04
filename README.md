@@ -29,6 +29,8 @@
 ![Bridge](https://github.com/MaDProjekt/Formula1/assets/157323137/798c9a0d-d20f-41ee-977c-e9ffee51063c)
 - RGB led\
 ![RGB_led](https://github.com/MaDProjekt/Formula1/assets/157323137/023f02e8-99c9-459b-980e-b07fe1f1da5d)
+- Battery  INR18650 3.7V\
+![Battery](https://github.com/MaDProjekt/Formula1/assets/157323137/a3cddd29-d5fe-40fe-bf9a-367e5dfe06a0)
 
 ## Connections
 
