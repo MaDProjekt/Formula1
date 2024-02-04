@@ -16,10 +16,9 @@
 |![FPV_cam](https://github.com/MaDProjekt/Formula1/assets/157323137/6dac537d-df4b-46c9-b868-948a382ed54c)|![prijimacFpv](https://github.com/MaDProjekt/Formula1/assets/157323137/6fa91529-83d6-4a93-9fff-be9f10085bf3)|
 
 ## WI-FI
--ESP01\
-![ESP01](https://github.com/MaDProjekt/Formula1/assets/157323137/1014cf30-39a1-49a5-8106-649251bfe5fa)\
--programer\
-![programer](https://github.com/MaDProjekt/Formula1/assets/157323137/bb937c25-b295-4221-ad1f-165ba19c146e)\
+| ESP01        | Programer       |
+| ---------------------- | ---------------------- |
+|![ESP01](https://github.com/MaDProjekt/Formula1/assets/157323137/1014cf30-39a1-49a5-8106-649251bfe5fa)|![programer](https://github.com/MaDProjekt/Formula1/assets/157323137/bb937c25-b295-4221-ad1f-165ba19c146e)|
 
 
 ## OTHER
