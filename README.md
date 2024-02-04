@@ -17,9 +17,9 @@
 
 ## WI-FI
 -ESP01
-![ESP01](https://github.com/MaDProjekt/Formula1/assets/157323137/c54c6866-9418-467d-ac66-3a64ae320fc2)
+![ESP01](https://github.com/MaDProjekt/Formula1/assets/157323137/1014cf30-39a1-49a5-8106-649251bfe5fa)
 -programer
-![programer](https://github.com/MaDProjekt/Formula1/assets/157323137/971a8833-870e-49fa-a597-c5d9c13b5c71)
+![programer](https://github.com/MaDProjekt/Formula1/assets/157323137/bb937c25-b295-4221-ad1f-165ba19c146e)
 
 
 ## OTHER
