@@ -22,7 +22,7 @@
 
 
 ## OSTATNÉ
-- Arduino MEGA\
+- Arduino Mega 2560\
 ![arduinko](https://github.com/MaDProjekt/Formula1/assets/157323137/f0ecafee-996d-40df-9ed0-3ebb006827b3)
 - Playstation ovládač s prijímačom\
 ![ovladac](https://github.com/MaDProjekt/Formula1/assets/157323137/bf4e4669-4a5f-4bdb-8dd6-58328ca52f34)
