@@ -28,7 +28,7 @@
 ![ovladac](https://github.com/MaDProjekt/Formula1/assets/157323137/bf4e4669-4a5f-4bdb-8dd6-58328ca52f34)
 - Dual H-mostík (L298N)\
 ![Bridge](https://github.com/MaDProjekt/Formula1/assets/157323137/798c9a0d-d20f-41ee-977c-e9ffee51063c)
-- RGB led\
+- RGB led dióda\
 ![RGB_led](https://github.com/MaDProjekt/Formula1/assets/157323137/023f02e8-99c9-459b-980e-b07fe1f1da5d)
 - Baterka  INR18650 3.7V\
 ![Battery](https://github.com/MaDProjekt/Formula1/assets/157323137/a3cddd29-d5fe-40fe-bf9a-367e5dfe06a0)
@@ -38,7 +38,7 @@
 | H-mostík zapojenie             | Zapojenie serva + prijímača           |
 | ---------------------- | ---------------------- |
 | ![schema](https://github.com/MaDProjekt/Formula1/assets/157323137/e7766153-7932-4080-bbc7-3e94e6283b95) | ![receiver](https://github.com/MaDProjekt/Formula1/assets/157323137/e5019a5d-d73e-4a53-afc9-6e3a843af219) |
-| RGB led zapojenie + Servo pre DRS            |ESP01 zapojenie |
+| RGB led diódy zapojenie + Servo pre DRS            |ESP01 zapojenie |
 | ![RGB](https://github.com/MaDProjekt/Formula1/assets/157323137/cc6bbabd-3f00-4f9e-b4c8-88ea41761050) | ![Wifi](https://github.com/MaDProjekt/Formula1/assets/157323137/f13b6e50-d295-495c-9708-5cd866d1c70a)|
 
 
