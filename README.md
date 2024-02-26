@@ -23,7 +23,7 @@
 
 ## OSTATNÉ
 - Arduino MEGA\
-![ARduino](https://github.com/MaDProjekt/Formula1/assets/157323137/93ae4624-4e66-439f-a63b-12bcb938e6a5)
+![arduinko](https://github.com/MaDProjekt/Formula1/assets/157323137/29e5edc9-fe11-4a5e-9abe-42fb493b29ef)
 - Playstation ovládač s prijímačom\
 ![ovladac](https://github.com/MaDProjekt/Formula1/assets/157323137/bf4e4669-4a5f-4bdb-8dd6-58328ca52f34)
 - Dual H-mostík (L298N)\
