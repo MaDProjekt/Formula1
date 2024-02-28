@@ -4,6 +4,9 @@
 # Úvodné video
 https://www.youtube.com/watch?v=7CzkDbEUSOQ
 
+# Ukážkové video
+https://youtu.be/TaQQeQ58aBQ
+
 ## MOTORY
 - MIG 490 12V\
 ![motor](https://github.com/MaDProjekt/Formula1/assets/157323137/71b93e72-cd61-4600-88b2-59054b05d8e1)
