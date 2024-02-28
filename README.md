@@ -1,6 +1,9 @@
 # FORMULA 1
 ![3D_model_final](https://github.com/MaDProjekt/Formula1/assets/157323137/518b5c7b-0ed8-4ce3-bf41-519b211d0a28)
 
+# Úvodné video
+https://www.youtube.com/watch?v=7CzkDbEUSOQ
+
 ## MOTORY
 - MIG 490 12V\
 ![motor](https://github.com/MaDProjekt/Formula1/assets/157323137/71b93e72-cd61-4600-88b2-59054b05d8e1)
