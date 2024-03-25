@@ -221,7 +221,7 @@ void loop(){
             client.println("  <div class=\"dataContainer\">");
             client.println("    <div class=\"dataDiv\">");
             client.println("        <canvas id=\"Brzda\" width=\"200\" height=\"300\" style=\"border:2px solid #f5f5f5;margin-right: 10%;\"></canvas>");
-            client.println("        <canvas id=\"Rotation\" width=\"220\" height=\"200\" style=\"border:2px solid #f5f5f5;\"></canvas>");
+            client.println("        <canvas id=\"Rotation\" width=\"275\" height=\"200\" style=\"border:2px solid #f5f5f5;\"></canvas>");
             client.println("        <canvas id=\"Plyn\" width=\"200\" height=\"300\" style=\"border:2px solid #f5f5f5;margin-left: 10%;\"></canvas>");
             client.println("      </div>");
             client.println("    <div class=\"textDiv\">");
