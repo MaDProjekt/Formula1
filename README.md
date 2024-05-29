@@ -5,7 +5,7 @@
 https://www.youtube.com/watch?v=7CzkDbEUSOQ
 
 # Ukážkové video
-[[https://youtu.be/TaQQeQ58aBQ](https://www.youtube.com/watch?v=tOVQ7THn2H0)](https://www.youtube.com/watch?v=pmDYwEzQJPM&t=2s)
+[link](https://www.youtube.com/watch?v=pmDYwEzQJPM&t=2s)
 
 ## MOTORY
 - MIG 490 12V\
