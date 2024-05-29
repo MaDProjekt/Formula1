@@ -2,7 +2,7 @@
 ![formulkon](https://github.com/MaDProjekt/Formula1/assets/157323137/5287cb74-0703-49ea-9f64-017c1634f475)
 
 # Úvodné video
-[Úvodné video]([https://www.youtube.com/watch?v=pmDYwEzQJPM&t=2s](https://www.youtube.com/watch?v=7CzkDbEUSOQ))
+[Úvodné video](https://www.youtube.com/watch?v=7CzkDbEUSOQ))
 
 # Ukážkové video
 [Ukážkové video](https://www.youtube.com/watch?v=pmDYwEzQJPM&t=2s)
