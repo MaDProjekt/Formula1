@@ -1,5 +1,5 @@
 # FORMULA 1
-![3D_model_final](https://github.com/MaDProjekt/Formula1/assets/157323137/518b5c7b-0ed8-4ce3-bf41-519b211d0a28)
+![formulkon](https://github.com/MaDProjekt/Formula1/assets/157323137/5287cb74-0703-49ea-9f64-017c1634f475)
 
 # Úvodné video
 https://www.youtube.com/watch?v=7CzkDbEUSOQ
